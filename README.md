@@ -2,7 +2,7 @@
 
 Random number generator written in scheme that can pass PractRand test
 
-**PLEASE NOTE:** *This project is purely for research and educational purposes, it must NOT be used for any practical purposes or applications. I'm posting it here for discussion, as a potential example of what NOT to do, and just as an interesting curiosity. I developed this function in the hopes that it will NEVER be used.*
+**PLEASE NOTE:** *This project is purely for research and educational purposes, it must **NOT** be used for any practical purposes or applications. I'm posting it here for discussion, as a potential example of what NOT to do, and just as an interesting curiosity. I developed this function in the hopes that it will NEVER be used.*
 
 *For practical purposes, you should **NEVER** attempt to write your own pseudo-random number generator, even if you are a highly experienced mathematician. It's very easy to make something with serious biases, and the consequences could be very serious.*
 
